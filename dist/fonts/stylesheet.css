@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Qwigley';
+    src: local('Qwigley Regular'), local('Qwigley-Regular'),
+        url('Qwigley-Regular.woff2') format('woff2'),
+        url('Qwigley-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Red Hat Display';
+    src: local('Red Hat Display Medium'), local('RedHatDisplay-Medium'),
+        url('RedHatDisplay-Medium.woff2') format('woff2'),
+        url('RedHatDisplay-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: local('Quicksand Regular'), local('Quicksand-Regular'),
+        url('Quicksand-Regular.woff2') format('woff2'),
+        url('Quicksand-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reggae One';
+    src: local('Reggae One Regular'), local('ReggaeOne-Regular'),
+        url('ReggaeOne-Regular.woff2') format('woff2'),
+        url('ReggaeOne-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
